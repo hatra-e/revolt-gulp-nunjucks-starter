@@ -1,0 +1,17 @@
+{
+  "name": "revolt-nunjucks-starter",
+  "version": "0.0.1",
+  "authors": [
+    "Ruven Pelka <ruven.pelka@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "http://ruvenpelka.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "revolt.all": "^0.2.0"
+  }
+}
