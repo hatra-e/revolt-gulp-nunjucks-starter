@@ -1,5 +1,5 @@
-revolt-nunjucks-starter
-=======================
+revolt-gulp-nunjucks-starter
+============================
 
 A starter project including full setup for Revolt, Gulp, SASS, AutoPrefixer, BrowserSync, and more.
 
